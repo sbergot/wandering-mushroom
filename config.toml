@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Hollow Mushroom"
+title = "Wandering Mushroom"
 theme = "jane"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
