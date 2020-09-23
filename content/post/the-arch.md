@@ -47,16 +47,24 @@ so!").
 # How to run the setting
 
 PCs take the role of a fresh group of spotters. They need to go outside to find
-food. They mostly look for fruits, grains and seeds. If an animal come in the
-area they might wait for it to die and loot its corpse. This can be used to
-generate a first session.
+food. This is the basic structure of the session: go outside to spot some
+fruits, grains or seeds. Then things happen and the player must react.
 
-The first time the mice go outside just let them accomplish their mission. The
-next time however be sure to introduce new elements. Those can be:
+Examples of basic events:
 
+- A dying animal come in the area. His fur and his meat are highly valuable. The
+  PCs have to stalk it and possibly kill it.
 - an unknown mice party wear strange clothes. They look older than most spotters
   from the arch meaning that they may have found an effective protection.
 - a caravan got lost. He has found some strange device emitting noise. Its noise
   seems to be linked to the intensity of the curse.
 
-WIP
+More involved:
+
+- a cat is around. He helps the player to find a decent source of food. He
+  pretends that a group of rats is keeping a cure for the curse to themselves.
+  The rats have offended the cat. The cure is a lie to punish the rats. Convert
+  an existing dungeon to represent the rats camp.
+- two escapists want to join the PCs to start an expedition. In exchange for
+  guiding them outside of town the escapist will reveal the location of a
+  valuable treasure. PCs should be careful not to be seen with those escapists.
