@@ -16,8 +16,8 @@ look at how we can design an osr hacking system.
 
 # How hacking fits in cyberpunk?
 
-- It is modern punk culture. Alternative and anarchist. Talented individuals
-  confront big corporation with some custom tools and their wits.
+- It is modern punk culture. Individual are fighting the symbols of the global
+  system using their tools and their wits.
 
 - It outlines the consequences of modern technologies. Now suddenly your email
   account becomes a proof of identity and can be used against you. In the name
@@ -85,8 +85,8 @@ Preliminary legwork (such as stealing an employee identity) should give bonuses.
 
 # What can hacking achieve?
 
-Since hacking is a bit abstract it might be less intuitive for player to
-understand want they are able to achieve. You should remind them that any
+Since hacking is a bit abstract it might be less intuitive for players to
+understand what they are able to achieve. You should remind them that any
 equipment that has some degree of automation (cars, doors, elevators, etc) is
 connected to the internet and vulnerable. Establish some truth bout the world.
 Can cybernetics be hacked? Can people's memories be manipulated? The answers
