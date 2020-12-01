@@ -1,11 +1,13 @@
 ---
 title: "Custom setting - the frozen colony"
 date: 2020-11-12
-draft: false
-categories: ["setting"]
+draft: true
+categories: ["setting", "frozen-colony"]
 ---
 
-I was thinking about multiple settings that I would like to run. This post contains my musing around the idea of combining the Frostpunk video game setting and something based around the australian colonization.
+I was thinking about multiple settings that I would like to run. This post
+contains my musing around the idea of combining the Frostpunk video game setting
+and something based around the australian colonization.
 
 <!-- more -->
 
@@ -92,4 +94,5 @@ Here are some things they can make it:
   modules may be reskinned and used like this.
 
 - Some foreign camp has stopped giving news. They have missed on their delivery
-  & resupply for the second week in a row. The company 
+  & resupply for the second week in a row. The company sends the players to
+  investigate.
