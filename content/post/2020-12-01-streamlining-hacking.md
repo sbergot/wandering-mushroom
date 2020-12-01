@@ -90,7 +90,7 @@ understand what they are able to achieve. You should remind them that any
 equipment that has some degree of automation (cars, doors, elevators, etc) is
 connected to the internet and vulnerable. Establish some truth bout the world.
 Can cybernetics be hacked? Can people's memories be manipulated? The answers
-should be yours to define. Present and outline and make ruling when you need to.
+should be yours to define. Present an outline and make rulings when you need to.
 Don't forget to stay consistent.
 
 So hacking can achieve a lot of thing. But important targets will probably be
