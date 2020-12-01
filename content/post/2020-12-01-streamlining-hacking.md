@@ -96,7 +96,7 @@ forget to stay consistent.
 So hacking can achieve a lot of things. But important targets will probably be
 well protected. Provide a way to probe those defenses. This can be in itself a
 hacking goal. The player goes blind. If he succeed you give him some ideas about
-the DC and track sizes. Otherwise this kind of information can be obtain offline
+the DC and track sizes. Otherwise this kind of information can be obtained offline
 thanks to bribery or from a contact.
 
 # Pacing considerations
