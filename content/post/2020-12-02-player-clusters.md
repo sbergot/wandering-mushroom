@@ -5,7 +5,7 @@ draft: true
 categories: ["cyberpunk"]
 ---
 
-A cyberpunk setting based on previous posts.
+An idea about connecting players together.
 
 <!-- more -->
 

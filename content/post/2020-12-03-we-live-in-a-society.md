@@ -5,7 +5,7 @@ draft: true
 categories: ["cyberpunk"]
 ---
 
-Going over some usual cyberpunk tropes
+Going over some usual tropes about social groups in a cyberpunk setting.
 
 <!-- more -->
 
@@ -49,23 +49,14 @@ you find it pretty normal. It is the way people like you live. You are not aware
 of anything bad about this whole situation.
 
 Hum. This was not subtle at all but I think we can conclude one thing. If you
-have joined a cluster that means you are absolutely mad about something. And you
-are objectively insane.
+have joined the rebellion that means you are absolutely mad about something. And
+you are objectively insane.
 
-In D&D terms players are strongly chaotic. They have personal reasons to fight
-the system.
-
-- They want revenge (they lost their brother because of a police intervention)
-- They are fighting for an ideology (anarchy, ecology, etc)
+- You want revenge (you have lost a brother because of a police intervention)
+- You are fighting for an ideology (anarchy, ecology, etc)
 
 I would like to think of a third one. Having two is still useful. One can be
 personal and the other one shared. In the spirit of osr, those should be quick
 to generate using a random table. A simple way would be to roll an ideology for
 the group and let each player quickly come up with an event that pushed them
 over the edge with the help of a random prompt.
-
-----????
-
-Anyway, they are now able to observe the system from the outside and it is
-frightening. The "outside" has its own subculture. Most notably they have their
-own vocabulary.
