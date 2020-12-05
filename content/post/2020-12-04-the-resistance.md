@@ -1,6 +1,6 @@
 ---
-title: "We live in a society"
-date: 2020-12-03
+title: "The resistance"
+date: 2020-12-04
 draft: true
 categories: ["cyberpunk"]
 ---
@@ -34,13 +34,14 @@ What are the "rebels" of our world:
   100% legal. Corporations hate them for their actions and what they represent.
 
 - Chaos agents. Those people just want to see the system burn. They are using
-  the word "system" as loosely as I am: anything that relates to the
-  conventional social organization. Maybe they have some deeper ideology but it
-  is less important now. The only thing that matters is "how do we fuck things
-  up as efficiently as possible". They have become professional rioters and
-  saboteur. They probably used to belong to another group and were radicalized
-  because of some unsettling events or maybe just for the thrill of action. They
-  often join forces with other groups on specific operations.
+  the word "system" as loosely as I am in these posts: anything that relates to
+  the conventional social organization. Maybe they have some deeper ideology but
+  it is less important now. The only thing that matters is "how do we fuck
+  things up as efficiently as possible". They have become professional rioter
+  and saboteur. They probably used to belong to another group and were
+  radicalized because of some unsettling events or maybe just for the thrill of
+  action. They often join forces with other groups on specific operations. They
+  might even help a corporation against another one in some cases.
 
 I feel we have enough with those four groups. Where should the player belong? I
 am rather convinced that they should live in the last one.

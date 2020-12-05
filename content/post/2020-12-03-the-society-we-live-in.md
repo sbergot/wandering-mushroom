@@ -1,5 +1,5 @@
 ---
-title: "We live in a society"
+title: "The society we live in"
 date: 2020-12-03
 draft: true
 categories: ["cyberpunk"]
@@ -23,11 +23,14 @@ characteristics of the theme.
   their company and centralize most of the power.
 
 * Lower executives are the bourgeoisie. They live a nice comfortable life. They
-  are not always immoral but they always work for the system. They represent 1%
-  of the population. This level also include the top state administrative
-  levels. In order to survive at this level you need to be a ruthless bastard.
+  are not always immoral but they always work for the system. They represent
+  from 5% to 10% of the population. This level also include the top state
+  administrative levels. At this level you are a highly skilled worker living in
+  a luxurious glass tower. You are able to effectively ignore all the misery
+  that is not right in front of you. If you are in the richest tiers you are
+  probably a ruthless bastard.
 
-* Essential workers form the bulk of the population. They have mind-numbing work
+* Essential workers form the bulk of the population. They have mind-numbing jobs
   that for some reason is not efficient to automate. Their pay is barely
   sufficient for their subsistence. Poverty, lawful repression and cheap
   entertainment maintain them in slavery. This level also include the state
