@@ -1,0 +1,72 @@
+{% macro page_info(page) %}
+    <div class="article-info">
+        {% if page.date %}
+        <svg style="margin-bottom: -3px" class="i-edit" viewBox="0 0 32 32"
+             width="16" height="16" fill="none" stroke="currentcolor"
+             stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
+            <path d="M30 7 L25 2 5 22 3 29 10 27 Z M21 6 L26 11 Z M5 22 L10 27 Z"/>
+        </svg>
+        <span class="article-date">{{ page.date | date(format=config.extra.anpu_date_format) }}</span>
+        {% endif %}
+     
+        {% if page.reading_time %}
+        <svg style="margin-bottom:-3px" class="i-clock" viewBox="0 0 32 32"
+        width="16" height="16" fill="none" stroke="currentcolor"
+        stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
+            <circle cx="16" cy="16" r="14"/>
+            <path d="M16 8 L16 16 20 20"/>
+        </svg>
+        <span>{{ page.reading_time }} minute read</span>
+        {% endif %}
+
+        <div class="article-taxonomies">
+            {% if page.taxonomies.categories %}
+                <ul class="article-categories">
+                    {% for cat in page.taxonomies.categories %}
+                    <li><a href="{{ get_taxonomy_url(kind="categories", name=cat) | safe }}">{{ cat }}</a></li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
+            {% if page.taxonomies.tags %}
+                <ul class="article-tags">
+                    {% for tag in page.taxonomies.tags %}
+                    <li><a href="{{ get_taxonomy_url(kind="tags", name=tag) | safe }}">#{{ tag }}</a></li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
+        </div>
+    </div>
+{% endmacro page_info %}
+
+{% macro page_listing(page) %}
+    <article class="post-list">
+        <header> 
+            <h1>
+                <a href="{{ page.permalink }}">{{ page.title }}</a>
+            </h1>
+        </header>
+
+        {{ self::page_info(page=page) }}
+
+        {% if page.summary %}
+        <div class="content post-summary">
+            {{ page.summary | markdown | safe }}
+        </div>
+        {% endif %}
+    </article>
+{% endmacro page_listing %}
+
+{% macro page_pagination(paginator) %}
+    <div class="pagination">
+        <div class="left pagination-item {% if not paginator.previous %}disabled{% endif %}">
+            {% if paginator.previous %}
+            <a href="{{ paginator.previous }}">To newer posts</a>
+            {% endif %}
+        </div>
+        <div class="right pagination-item {% if not paginator.next %}disabled{% endif %}">
+            {% if paginator.next %}
+            <a href="{{ paginator.next }}">To older posts</a>
+            {% endif %}
+        </div>
+    </div>
+{% endmacro page_pagination %}
