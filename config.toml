@@ -1,18 +1,21 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
 title = "Wandering Mushroom"
-theme = "jane"
-enableInlineShortcodes = true
-footnoteReturnLinkContents = "^"
+base_url = "https://example.com"
+compile_sass = true
 
-[Author]
-  name = "Simon Bergot"
+taxonomies = [
+    { name = "categories" },
+    { name = "tags" },
+]
 
-[taxonomies]
-  category = "categories"
+generate_feed = true
 
-[[menu.main]]
-  name = "Categories"
-  weight = 40
-  identifier = "categories"
-  url = "/categories/"
+[slugify]
+paths = "safe"
+
+[extra]
+anpu_date_format="%e %B %Y"
+anpu_menu_links = [
+    { url = "$BASE_URL/", name = "Home" },
+    { url = "$BASE_URL/pages/about/", name = "About" },
+    { url = "$BASE_URL/tags/", name = "Tags" },
+]
