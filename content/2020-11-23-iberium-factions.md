@@ -47,16 +47,16 @@ forces to maintain some order but are still a minority.
   corruption money and move on.
 
   **How to get in:** the player can provide interesting information about the
-  company. An hidden commercial route. A mean to communicate with a corrupted
-  politician. Think of an high risk/high reward operation. If they get caught
-  the chances of escaping death is slim. If they succeed they will have
+  company. A hidden commercial route. A mean to communicate with a corrupted
+  politician. Think of a high risk/high reward operation. If they get caught the
+  chances of escaping death are slim. If they succeed, they will have
   significant leverage.
 
 - Some church representative come to make sure that the colonists keep praying
   and respecting their commandments. Those who don't are publicly burnt. This is
   always a popular event thanks to the warmth.
   
-  Missionaries are coming in order to convert the tribes but those usually move
+  Missionaries are coming in order to convert the tribes, but those usually move
   quickly further in the mainland.
 
   **How to get in:** players can reveal some forbidden behaviors. Beggars have
@@ -89,7 +89,7 @@ role.
   boat in half. You could sail out there with a net and try to grab a few
   salmons but without a big harpoon to defend yourself the risk is too high. So
   the only people crazy enough to wander around are trying to bring back big
-  game. When they succeed they can make a nice profit out of it. A sea creature
+  game. When they succeed, they can make a nice profit out of it. A sea creature
   will provide meat for the hungry, oil for the torches, skin for the clothes,
   etc. With that money they will need to pay the salaries to their men or their
   widows, fix the damages on their boat, and finance the next expedition.

@@ -8,7 +8,7 @@ tags= ["setting", "frozen-colony"]
 
 Frostpunk is a town management set in a frozen world. The town is built around a
 furnace and you have to carefully manage the heat distribution in order to
-survive. I haven't played it but the promotional material gave me a "Blades in
+survive. I haven't played it, but the promotional material gave me a "Blades in
 the dark" vibe. I like BitD but it is a bit too gonzo for me. I wanted something
 where ghost may exist but are not a constant threat for the whole city.
 
@@ -16,18 +16,18 @@ where ghost may exist but are not a constant threat for the whole city.
 
 # Overview
 
-The australian colonization seems like a good source for inspiration. It is far
-from civilization. There are some institutions there but the population is
+The Australian colonization seems like a good source for inspiration. It is far
+from civilization. There are some institutions there, but the population is
 mostly outcast and the distance are so vast that the law is probably not
 enforced that much where you live. Deadly beasts in all size are lurking around.
 Some ancient tribes are already living there and are quite unhappy to watch
 their sacred lands being exploited for resources.
 
-Combining the two seem interesting so here is my shot. I imagine something like
-the 15th century. In some part of the world a bunch of kingdoms are waging a low
-intensity war. Some crazy adventurers have succeeded in gathering enough funds
-to mount expeditions around the world. They have promised new lands full of
-riches and some have been discovered. **Silberland** is one of them. Although
+Combining the two seems interesting so here is my shot. I imagine something like
+the 15th century. In some part of the world, a bunch of kingdoms are waging a
+low intensity war. Some crazy adventurers have succeeded in gathering enough
+funds to mount expeditions around the world. They have promised new lands full
+of riches and some have been discovered. **Silberland** is one of them. Although
 its conditions are hostile, it contains a few key resources that makes it
 important for the **kingdom of Rowia**.
 

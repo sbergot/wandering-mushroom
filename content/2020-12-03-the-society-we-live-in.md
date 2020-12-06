@@ -15,7 +15,7 @@ characteristics of the theme.
 
 * The corporate top management are at the top of the food chain. They are
   absurdly rich and powerful. They might have different philosophies but in the
-  end most of their time and energy is spend on maintaining and increasing their
+  end most of their time and energy is spent on maintaining and increasing their
   power. There are few dozen individuals at this level. All of them are high
   functioning genius psychopath. Each megacorporation is piloted by a few of
   those. They have a strong presence in the media. They are the public face of
@@ -23,7 +23,7 @@ characteristics of the theme.
 
 * Lower executives are the bourgeoisie. They live a nice comfortable life. They
   are not always immoral but they always work for the system. They represent
-  from 5% to 10% of the population. This level also include the top state
+  from 5% to 10% of the population. This level also includes the top state
   administrative levels. At this level you are a highly skilled worker living in
   a luxurious glass tower. You are able to effectively ignore all the misery
   that is not right in front of you. If you are in the richest tiers you are
@@ -32,7 +32,7 @@ characteristics of the theme.
 * Essential workers form the bulk of the population. They have mind-numbing jobs
   that for some reason is not efficient to automate. Their pay is barely
   sufficient for their subsistence. Poverty, lawful repression and cheap
-  entertainment maintain them in slavery. This level also include the state
+  entertainment maintain them in slavery. This level also includes the state
   administrations.
 
 It is important to understand that if you are a reasonable and rational person

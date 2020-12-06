@@ -6,12 +6,12 @@ draft= false
 tags= ["cyberpunk"]
 +++
 
-In the two previous posts I have looked at some issues with common cyberpunk
+In the two previous posts, I have looked at some issues with common cyberpunk
 settings and worked a bit on a streamlined hacking system.
 
-Looking at this system I said that there was to competing tracks: the attacker
+Looking at this system, I said that there was to competing tracks: the attacker
 pushing to reach his goal and the target noticing and then locating him. Looking
-at the details I think I can extract a third track: the amount of traces left by
+at the details I think I can extract a third track: the amount of trails left by
 the attacker.
 
 While the two first tracks are scoped for the current hacking attempt, this
@@ -39,7 +39,7 @@ everyone knows everyone. Outside contacts are known to one member and relations
 are very carefully planned with each side planning its own escape independently.
 
 Being connected to a cluster means sharing a lot of things: audio, video, etc.
-This plays well with the way player act at the table. They may discuss at length
+This aligns with the way player act at the table. They may discuss at length
 anything happening to anyone. Since the players are constantly connected they
 may split as much as they want. All of this reminds me of something.
 
@@ -58,28 +58,28 @@ emotions, abilities, etc.
 This idea is genius and fits very well in a cyberpunk ttrpg. Lets go all in with
 it!
 
-All players start with a base bond level with each other. This base level allow
+All players start with a base bond level with each other. This base level allows
 them to talk and exchange data. The bond level is a number that grows under
 certain circumstances. When it grows stronger, the players share more stuff.
 
 - At level two a player may efficiently guide his partner in some difficult
   task. Mechanically this could be implemented by giving a bonus to a skill
   check.
-- At the highest level both player can play both character. They are effectively
-  the same consciousness sharing two bodies.
+- At the highest level both players can play both characters. They are
+  effectively the same consciousness sharing two bodies.
 - When one character is caught or receive heat, the other characters receive
   heat based on their bond level
 
-I feel this needs some more details but I think this is an interesting system
-that complement both the theme and the game.
+I feel this mechanics needs some more details but I believe this is an
+interesting system that complements both the theme and the game.
 
-As discussed previously anonymity is important for the character well-being. A
-group always leaves more trace than an individual. This the connection between
+As discussed previously, anonymity is important for the character well-being. A
+group always leaves more trails than an individual. Since the connection between
 player is not impacted with distance, players should stay apart from one another
 as much as possible.
 
 I am stealing Sens8 again by pulling the archipelago metaphor. From an external
 point players are just a bunch of regular people minding their own business.
-Their coordinated action may only be noticed if you know that actively looking
-with the correct perspective in mind. Like an archipelago they look like
+Their coordinated action may only be noticed if you are actively looking at all
+of them with the correct perspective in mind. Like an archipelago they look like
 scattered tiny islands but down under they are a highly cohesive entity.

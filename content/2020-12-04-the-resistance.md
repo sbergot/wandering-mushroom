@@ -29,7 +29,7 @@ What are the "rebels" of our world:
 - Political activists. They live in the system to some extent but are fighting
   against it. They are also united around an ideology. Contrary to the external
   autonomous communities, political activist are trying to change the rest of
-  the society. They may use different means of actions but they can never stay
+  the society. They may use different means of actions, but they can never stay
   100% legal. Corporations hate them for their actions and what they represent.
 
 - Chaos agents. Those people just want to see the system burn. They are using

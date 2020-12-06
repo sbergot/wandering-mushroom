@@ -15,7 +15,7 @@ look at how we can design an osr hacking system.
 
 # How hacking fits in cyberpunk?
 
-- It is modern punk culture. Individual are fighting the symbols of the global
+- It is modern punk culture. Individuals are fighting the symbols of the global
   system using their tools and their wits.
 
 - It outlines the consequences of modern technologies. Now suddenly your email
@@ -28,7 +28,7 @@ look at how we can design an osr hacking system.
 
 - It is a versatile tool for players. Player can use it to manipulate
   information, take control of surveillance cameras, lock/unlock doors or even
-  break stuff by operating them out of spec. In D&D the classic spell list has
+  break stuff by operating them out of specs. In D&D the classic spell list has
   become more of a handy toolbox than a mysterious source of power. In cyberpunk
   hacking has gone from a mundane tool to an almost magical capability.
 
@@ -53,16 +53,16 @@ wants to hack into something in order to achieve some goal. He will need some
 equipment and if your game has those, the right skill.
 
 Then it should be a race. The player is trying to achieve his goal. The targeted
-system make progress on an *awareness* track. Each turn both sides roll a dice
-and advance on its track by a number of point depending on the result.
+system progresses on an *awareness* track. Each turns both sides roll a dice and
+advance on its track by a number of point depending on the result.
 
-* Oblivious: no indication that anything is happening. If the player succeed at
+* Oblivious: no indication that anything is happening. If the player succeeds at
   this step it is a total victory. The goal is achieved without any negative
   consequence.
 * Alerted: something is happening but few elements are available. At this point
-  the attacker risks are rising quickly. Even if he succeed at this step he has
-  left some minor traces. From now on the target might decide to shutdown its
-  system in some cases to protect valuable assets. Shutting down the system
+  the attacker risks are rising quickly. Even if he succeeds at this step, he
+  has left some minor traces. From now on the target might decide to shutdown
+  its system in some cases to protect valuable assets. Shutting down the system
   might still be a form of minor victory for the attacker.
 * Attack located: the system knows what is targeted and what means are used. It
   is now able to defend itself actively. Next rolls attacker rolls should be
@@ -87,21 +87,21 @@ Preliminary legwork (such as stealing an employee identity) should give bonuses.
 Since hacking is a bit abstract it might be less intuitive for players to
 understand what they are able to achieve. You should remind them that any
 equipment that has some degree of automation (cars, doors, elevators, etc) is
-connected to the internet and vulnerable. Establish some truth bout the world.
+connected to the internet and vulnerable. Establish some truth about the world.
 Can cybernetics be hacked? Can memories be manipulated? The answers should be
 yours to define. Present an outline and make rulings when you need to. Don't
 forget to stay consistent.
 
 So hacking can achieve a lot of things. But important targets will probably be
 well protected. Provide a way to probe those defenses. This can be in itself a
-hacking goal. The player goes blind. If he succeed you give him some ideas about
-the DC and track sizes. Otherwise this kind of information can be obtained offline
-thanks to bribery or from a contact.
+hacking goal. The player goes blind. If he succeeds you give him some ideas
+about the DC and track sizes. Otherwise, this kind of information can be
+obtained offline thanks to bribery or from a contact.
 
 # Pacing considerations
 
 Rolls should be swingy and change the situation. After each pair of rolls the
-player should have to decide if he pushes further or retreat. The system can
+player should have to decide if he pushes further or retreats. The system can
 have multiple targets with various difficulty levels to increase the complexity
 & stakes of those decisions.
 

@@ -18,7 +18,7 @@ feel the same here.
 The players have been exiled here. The old kingdoms are happy to send them away
 and don't really care how they are treated in the colony as long as the riches
 keep coming their way. The various colony factions know that most people won't
-survive long here. Either the player are able to fend for themselves, or their
+survive long here. Either the players are able to fend for themselves, or their
 lives are worth less than their clothes as far as everyone is concerned.
 
 The players are let out of the boat. A soldier releases them from their cuffs.
@@ -36,7 +36,7 @@ death during the night. Their body will be looted the next day.
 The players are at the docks. If they look around they see:
 - workers discharging the boat. Those are members of a dockers guild.
 - soldier supervising them. Those are paid by the company.
-- a priest his standing next to an officer. He is representing the old kingdoms.
+- a priest is standing next to an officer. He is representing the old kingdoms.
 - lots of beggars. Nobody gives anything to them. A dockers threatens and beats
   up one who comes a bit too close to one of the boxes. At some point the
   beggars move toward the priest. He tosses a small coin. Three beggars are
@@ -64,6 +64,6 @@ their qualms.
 The basic elements of survival are: abandon your morality and don't work alone.
 Even beggars works in groups of four or five.
 
-Once the player have survived the first night, release the pressure on the
+Once the players have survived the first night, release the pressure on the
 survival elements. It should not stay as central as in this first session. The
 following sessions should aim at digging more into the lore of the world.
