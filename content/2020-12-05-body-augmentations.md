@@ -8,7 +8,8 @@ tags= ["cyberpunk"]
 
 Like Hacking, cyberware fit both in the theme and the mechanics of a cyberpunk ttrpg:
 
-- They raise question about the perils of technology and about the sense of self-identity
+- They raise questions about the perils of technology and about the sense of
+  self-identity
 - They allow for crazy character aesthetics
 - They provide interesting customization options for PCs as well as NPCs
 
