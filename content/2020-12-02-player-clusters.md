@@ -2,7 +2,8 @@
 title= "Player clusters"
 date= 2020-12-03
 draft= false
-categories= ["cyberpunk"]
+[taxonomies]
+tags= ["cyberpunk"]
 +++
 
 In the two previous posts I have looked at some issues with common cyberpunk

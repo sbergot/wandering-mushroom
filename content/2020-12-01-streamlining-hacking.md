@@ -2,7 +2,8 @@
 title= "Streamlining hacking"
 date= 2020-12-01
 draft= false
-categories= ["cyberpunk"]
+[taxonomies]
+tags= ["cyberpunk"]
 +++
 
 In the previous post I have presented a number of issues I have with common

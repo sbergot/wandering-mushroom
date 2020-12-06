@@ -2,7 +2,8 @@
 title= "The society we live in"
 date= 2020-12-03
 draft= false
-categories= ["cyberpunk"]
+[taxonomies]
+tags= ["cyberpunk"]
 +++
 
 I really like the direction taken by the two last posts about the heat system

@@ -2,7 +2,8 @@
 title= "Body augmentations"
 date= 2020-12-05
 draft= false
-categories= ["cyberpunk"]
+[taxonomies]
+tags= ["cyberpunk"]
 +++
 
 Like Hacking, cyberware fit both in the theme and the mechanics of a cyberpunk ttrpg:

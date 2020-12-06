@@ -2,7 +2,8 @@
 title= "Custom setting - the frozen colony"
 date= 2020-11-12
 draft= false
-categories= ["setting", "frozen-colony"]
+[taxonomies]
+tags= ["setting", "frozen-colony"]
 +++
 
 Frostpunk is a town management set in a frozen world. The town is built around a

@@ -2,7 +2,8 @@
 title= "Welcome to the frozen colony"
 date= 2020-11-12
 draft= false
-categories= ["setting", "preparation", "frozen-colony"]
+[taxonomies]
+tags= ["setting", "frozen-colony"]
 +++
 
 The introduction to the setting should be like a funnel but instead of going in

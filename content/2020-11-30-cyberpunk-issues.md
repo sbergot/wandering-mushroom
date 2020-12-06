@@ -2,7 +2,8 @@
 title= "My issues with cyberpunk"
 date= 2020-11-30
 draft= false
-categories= ["cyberpunk"]
+[taxonomies]
+tags= ["cyberpunk"]
 +++
 
 For a while I was the DM for Shadowrun and I liked that. Nowadays I much prefer

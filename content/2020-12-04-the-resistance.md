@@ -2,7 +2,8 @@
 title= "The resistance"
 date= 2020-12-04
 draft= false
-categories= ["cyberpunk"]
+[taxonomies]
+tags= ["cyberpunk"]
 +++
 
 I still need to read more cyberpunk material to get more baggage. That said I

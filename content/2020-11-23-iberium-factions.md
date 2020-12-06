@@ -2,7 +2,8 @@
 title= "Factions of Iberium"
 date= 2020-11-23
 draft= false
-categories= ["setting", "preparation", "frozen-colony"]
+[taxonomies]
+tags= ["setting", "frozen-colony"]
 +++
 
 A good faction network serves multiple purpose.
