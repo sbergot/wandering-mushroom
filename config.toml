@@ -1,5 +1,5 @@
 title = "Wandering Mushroom"
-base_url = "https://example.com"
+base_url = "https://confident-bhabha-f589dc.netlify.app/"
 compile_sass = true
 
 taxonomies = [
