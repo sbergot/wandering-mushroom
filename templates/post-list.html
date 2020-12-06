@@ -11,6 +11,10 @@
 
 {% block content %}
 
+<header>
+    <h1 class="main-title">{{ section.title }}</h1>
+</header>
+
 {% if paginator.pages %}
 {% for page in paginator.pages %}
     {{ page_macros::page_listing(page=page) }}

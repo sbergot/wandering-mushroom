@@ -7,7 +7,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="referrer" content="no-referrer-when-downgrade">
 
-    <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+    <title>
+        {% if page %}
+        {{ page.title }}
+        {% elif section %}
+        {{ section.title }}
+        {% endif %}
+    </title>
     <meta name="description" content="{{ config.description }}">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Domine&display=swap" rel="stylesheet">
@@ -23,15 +29,15 @@
     </script> -->
     <a class="skip-main" href="#main">Skip to content</a>
     <div class="container">
-        <header> 
-            <h1 class="site-header">
+        <header class="site-header"> 
+            <h1>
                 <a href="/">{{ config.title }}</a>
             </h1>
             <nav>
                 {% block sidebar_nav %}
                 {% for menu_link in config.extra.anpu_menu_links %}
                 {% set link_url = menu_link.url | replace(from="$BASE_URL", to=config.base_url) %}
-                <a {% if current_url and current_url == link_url %}class="active"{% endif %} href="{{ link_url }}">{{menu_link.name}}</a>
+                <a {% if current_path and current_path == link_url %}class="active"{% endif %} href="{{ link_url }}">{{menu_link.name}}</a>
                 {% endfor %}
                 {% endblock sidebar_nav %}
             </nav>
