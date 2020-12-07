@@ -1,5 +1,5 @@
 title = "Wandering Mushroom"
-base_url = "https://blog.wandering-mushroom.com"
+base_url = "https://wandering-mushroom.com"
 compile_sass = true
 
 taxonomies = [
