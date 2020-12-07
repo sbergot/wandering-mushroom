@@ -8,10 +8,11 @@
     <meta name="referrer" content="no-referrer-when-downgrade">
 
     <title>
+        {{ config.title }}
         {% if page %}
-        {{ page.title }}
+        - {{ page.title }}
         {% elif section %}
-        {{ section.title }}
+        - {{ section.title }}
         {% endif %}
     </title>
     <meta name="description" content="{{ config.description }}">
