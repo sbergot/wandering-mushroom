@@ -21,26 +21,26 @@ What are the "rebels" of our world:
 
 - External autonomous communities aka intentional communities. Examples include
   the East Wind Community and Nomadelfia. They are united around a set of
-  values. Those are bigger, less visible are more organized. They rarely have
-  any impact on the rest of the world. Corporations dislike them because of what
-  they represent. Those communities can also block the access to some natural
-  resources.
+  values. Those are bigger groups, less visible are more organized compared to
+  the marginals. They rarely have any impact on the rest of the world.
+  Corporations dislike them because of what they represent. Those communities
+  can also block the access to some natural resources.
 
 - Political activists. They live in the system to some extent but are fighting
   against it. They are also united around an ideology. Contrary to the external
-  autonomous communities, political activist are trying to change the rest of
+  autonomous communities, political activists are trying to change the rest of
   the society. They may use different means of actions, but they can never stay
   100% legal. Corporations hate them for their actions and what they represent.
 
 - Chaos agents. Those people just want to see the system burn. They are using
   the word "system" as loosely as I am in these posts: anything that relates to
-  the conventional social organization. Maybe they have some deeper ideology but
-  it is less important now. The only thing that matters is "how do we fuck
-  things up as efficiently as possible". They have become professional rioter
-  and saboteur. They probably used to belong to another group and were
-  radicalized because of some unsettling events or maybe just for the thrill of
-  action. They often join forces with other groups on specific operations. They
-  might even help a corporation against another one in some cases.
+  the dominant social organization. Maybe they have some deeper ideology but it
+  is less important now. The only thing that matters is "how do we fuck things
+  up as efficiently as possible". They have become professionals in their
+  fields. They probably used to belong to another group and were radicalized
+  because of some unsettling events or maybe just for the thrill of action. They
+  often join forces with other groups on specific operations. They might even
+  help a corporation against another one in some rare cases.
 
 I feel we have enough with those four groups. Where should the player belong? I
 am rather convinced that they should live in the last one.

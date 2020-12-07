@@ -38,14 +38,14 @@ theme.
 
 It is important to understand that if you are a reasonable and rational person
 you end up as an essential worker. If you agree that the police is needed to
-maintain order, that the financial system is not perfect but still bring
+maintain order, that the financial system is not perfect but still brings
 progress, and that states should help poor people but be careful about their
 deficit then you cannot resist the forces that will put you in miserable
 conditions.
 
 You fear making a mistake at your job and losing your sad flat. You fear voicing
 a slightly unpopular opinion and being called out by your friends and
-ostracized. You fear pointing out an injustice you witness because you know that
+ostracized. You fear calling out an injustice you witness because you know that
 the police would immediately remind you how fair they can be with their sticks.
 You shut up and endure thanks to social media stars. And all things being told,
 you find it pretty normal. It is the way people like you live. You are not aware

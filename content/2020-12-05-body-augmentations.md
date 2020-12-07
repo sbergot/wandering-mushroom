@@ -6,7 +6,7 @@ draft= false
 tags= ["cyberpunk"]
 +++
 
-Like Hacking, cyberware fit both in the theme and the mechanics of a cyberpunk
+Like Hacking, cyberwares fit both in the theme and the mechanics of a cyberpunk
 ttrpg:
 
 - They raise questions about the perils of technology and about the sense of
