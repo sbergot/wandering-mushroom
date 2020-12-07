@@ -9,11 +9,11 @@
 
     <title>
         {{ config.title }}
-        {% if page %}
+        {%- if page %}
         - {{ page.title }}
-        {% elif section %}
+        {%- elif section -%}
         - {{ section.title }}
-        {% endif %}
+        {%- endif %}
     </title>
     <meta name="description" content="{{ config.description }}">
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -25,15 +25,16 @@
     {% endblock extra_head %}
 </head>
 <body>
-    <!-- <script>
+    {# <script>
     window.ctx = {{ __tera_context }}
-    </script> -->
+    </script> #}
     <a class="skip-main" href="#main">Skip to content</a>
     <div class="container">
         <header class="site-header"> 
             <h1>
                 <a href="/">{{ config.title }}</a>
             </h1>
+            <img src="/mushroom.svg">
             <nav>
                 {% block sidebar_nav %}
                 {% for menu_link in config.extra.anpu_menu_links %}
@@ -49,12 +50,10 @@
         </main>
         <footer>
             <p>
-                © {{ config.title }} {{ now() | date(format="%Y") }}<br>
-            </p>
-            <p>
                 {% block footer %}
                 {% endblock footer %}
             </p>
+            <div>Icons made by <a href="http://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
         </footer>
     </div>
 </body>
