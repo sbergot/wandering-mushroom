@@ -11,13 +11,13 @@ A good faction network serves multiple purpose.
 - It creates a crucible that allows you to generate conflicts. And conflicts
   create interesting stories.
 
+Let's have a look at the factions of the frozen colony!
+
 <!-- more -->
 
 **Note on *How to get in***: This can be used as a hook for an adventure. It
 does not mean that players can become part of any organization, just that they
 can earn some level of protection.
-
-Let's see what we can put here!
 
 Iberium is the first city the player will visit. It is a place where the old
 kingdoms have some presence. However it provides an outlook into the rest of the

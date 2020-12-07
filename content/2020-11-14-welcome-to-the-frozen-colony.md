@@ -1,11 +1,12 @@
 +++
 title= "Welcome to the frozen colony"
-date= 2020-11-12
+date= 2020-11-14
 draft= false
 [taxonomies]
 tags= ["setting", "frozen-colony"]
 +++
 
+This post expands upon [the previous one](@/2020-11-12-the-frozen-colony.md).
 The introduction to the setting should be like a funnel but instead of going in
 a dungeon, the player are trying to survive the first night. The harsh realities
 should be delivered as a punch in the face. In the [Lair of the
@@ -15,9 +16,9 @@ feel the same here.
 
 <!-- more -->
 
-The players have been exiled here. The old kingdoms are happy to send them away
-and don't really care how they are treated in the colony as long as the riches
-keep coming their way. The various colony factions know that most people won't
+The PCs have been exiled here. The old kingdoms are happy to send them away and
+don't really care how they are treated in the colony as long as the riches keep
+coming their way. The various colony factions know that most people won't
 survive long here. Either the players are able to fend for themselves, or their
 lives are worth less than their clothes as far as everyone is concerned.
 

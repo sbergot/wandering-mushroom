@@ -9,8 +9,9 @@ tags= ["setting", "frozen-colony"]
 Frostpunk is a town management set in a frozen world. The town is built around a
 furnace and you have to carefully manage the heat distribution in order to
 survive. I haven't played it, but the promotional material gave me a "Blades in
-the dark" vibe. I like BitD but it is a bit too gonzo for me. I wanted something
-where ghost may exist but are not a constant threat for the whole city.
+the dark" vibe. I like BitD but it is a bit too gonzo for me. I wanted to design
+a fairly grounded setting based on Frostpunk. Ghost may exist but are not a
+constant threat for everybody.
 
 <!-- more -->
 

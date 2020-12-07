@@ -6,8 +6,9 @@ draft= false
 tags= ["cyberpunk"]
 +++
 
-In the two previous posts, I have looked at some issues with common cyberpunk
-settings and worked a bit on a streamlined hacking system.
+In the two [previous](@/2020-11-30-cyberpunk-issues.md)
+[posts](2020-12-01-streamlining-hacking.md), I have looked at some issues with
+common cyberpunk settings and worked a bit on a streamlined hacking system.
 
 Looking at this system, I said that there was to competing tracks: the attacker
 pushing to reach his goal and the target noticing and then locating him. Looking

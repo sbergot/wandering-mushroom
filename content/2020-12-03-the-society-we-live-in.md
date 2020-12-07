@@ -6,10 +6,11 @@ draft= false
 tags= ["cyberpunk"]
 +++
 
-I really like the direction taken by the two last posts about the heat system
-and bond level in a cyberpunk ttrpg game. Lets go over some tropes about a
-cyberpunk society. I am not being subtle for the sake of fleshing out the main
-characteristics of the theme.
+I really like the direction taken by the [last
+post](@/2020-12-02-player-clusters.md) about the heat system and bond level in a
+cyberpunk ttrpg game. Lets go over some tropes about a cyberpunk society. I am
+not being subtle for the sake of fleshing out the main characteristics of the
+theme.
 
 <!-- more -->
 

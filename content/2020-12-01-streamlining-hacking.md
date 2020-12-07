@@ -6,7 +6,7 @@ draft= false
 tags= ["cyberpunk"]
 +++
 
-In the previous post I have presented a number of issues I have with common
+In the [previous post](@/2020-11-30-cyberpunk-issues.md) I have presented a number of issues I have with common
 cyberpunk games. Hacking has them all: a specific set of skill, equipment and
 rules that must be listed and learned and are a nightmare at the table. Let's
 look at how we can design an osr hacking system.
