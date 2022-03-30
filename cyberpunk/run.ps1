@@ -2,7 +2,7 @@ $Root = $PSScriptRoot
 
 $InformationPreference = "Continue"
 $template = Get-Content "$Root/template.html"
-$outputFolder = "$Root\..\content\cyberpunk"
+$outputFolder = "$Root\..\public\cyberpunk"
 $TextInfo = (Get-Culture).TextInfo
 
 function Replace-Content ($file) {
@@ -18,7 +18,7 @@ function Replace-Content ($file) {
 }
 
 if (!(Test-Path $outputFolder)) {
-	New-Item -Path $outputFolder -ItemType "directory"
+	New-Item -Path $outputFolder -ItemType "directory" -Force
 }
 
 Get-ChildItem "$Root\raw\*.html" | % {
