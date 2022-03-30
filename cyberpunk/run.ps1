@@ -5,6 +5,11 @@ $template = Get-Content "$Root/template.html"
 $outputFolder = "$Root\output"
 $TextInfo = (Get-Culture).TextInfo
 
+
+if (Test-Path $outputFolder) {
+	Remove-Item -Path $outputFolder -Force -Recurse
+}
+
 function Replace-Content ($file) {
     $name = $file.BaseName
     $title = $name -replace '-',' '
@@ -17,13 +22,13 @@ function Replace-Content ($file) {
     return $output
 }
 
-if (!(Test-Path $outputFolder)) {
-	New-Item -Path $outputFolder -ItemType "directory" -Force
-}
+New-Item -Path $outputFolder -ItemType "directory" -Force
 
 Get-ChildItem "$Root\raw\*.html" | % {
     Write-Information "Processing $_"
-    Replace-Content $_ > "$outputFolder\$($_.Name)"
+    $nested = "$outputFolder\$($_.BaseName)"
+    New-Item -Path $nested -ItemType "directory" -Force
+    Replace-Content $_ > "$nested\index.html"
 } 
 
 Copy-Item "$Root\resources\*" $outputFolder
