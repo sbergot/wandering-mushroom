@@ -1,2 +1,2 @@
-zola build
-powershell cyberpunk/run.ps1
+zola build;
+powershell cyberpunk/run.ps1;
