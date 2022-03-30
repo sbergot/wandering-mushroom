@@ -2,7 +2,7 @@ $Root = $PSScriptRoot
 
 $InformationPreference = "Continue"
 $template = Get-Content "$Root/template.html"
-$outputFolder = "$Root\..\public\cyberpunk"
+$outputFolder = "$Root\output"
 $TextInfo = (Get-Culture).TextInfo
 
 function Replace-Content ($file) {

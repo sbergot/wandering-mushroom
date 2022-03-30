@@ -1,2 +1,2 @@
 zola build;
-powershell cyberpunk/run.ps1;
+cp -r ./cyberpunk/output ./public/cyberpunk;
